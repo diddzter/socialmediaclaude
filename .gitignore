@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+service-account.json
+music_library/library.json
+music_library/*.mp3
+music_library/*.wav
+.pytest_cache/
+*.egg-info/
