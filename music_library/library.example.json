@@ -1,0 +1,27 @@
+{
+  "_comment": "Copy this file to music_library/library.json and fill in real tracks you have the rights to use. Paths are relative to this file. See README.md for royalty-free sources (YouTube Audio Library, Pixabay Music, etc).",
+  "energetic": [
+    { "file": "energetic_1.mp3", "credit": "Track title - Artist (source)" }
+  ],
+  "chill": [
+    { "file": "chill_1.mp3", "credit": "Track title - Artist (source)" }
+  ],
+  "uplifting": [
+    { "file": "uplifting_1.mp3", "credit": "Track title - Artist (source)" }
+  ],
+  "dramatic": [
+    { "file": "dramatic_1.mp3", "credit": "Track title - Artist (source)" }
+  ],
+  "funny": [
+    { "file": "funny_1.mp3", "credit": "Track title - Artist (source)" }
+  ],
+  "romantic": [
+    { "file": "romantic_1.mp3", "credit": "Track title - Artist (source)" }
+  ],
+  "mysterious": [
+    { "file": "mysterious_1.mp3", "credit": "Track title - Artist (source)" }
+  ],
+  "inspirational": [
+    { "file": "inspirational_1.mp3", "credit": "Track title - Artist (source)" }
+  ]
+}
